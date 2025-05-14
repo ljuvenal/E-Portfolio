@@ -138,6 +138,7 @@ ABOUT ME
 .about-me__picture {
     width: 100%;
     padding-top: 8px;
+    padding-bottom: 16px;
     transform: scale(1.5);
 }
 
@@ -160,7 +161,6 @@ ABOUT ME
     flex: 1;
     display: flex;
     align-items: center;
-    padding: 24px;
 }
 
 .about-me__img {
@@ -181,6 +181,7 @@ ABOUT ME
 .language__img--wrapper {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .language__list {
